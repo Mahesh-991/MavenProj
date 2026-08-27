@@ -26,7 +26,7 @@
     <manifest>
     <mainClass>com.example.App</mainClass>
     </manifest>
-    </archieve>
+    </archive>
     </coniguration>
     </plugin>
     </plugins>
